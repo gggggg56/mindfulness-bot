@@ -1,3 +1,1 @@
-*.pyc
-__pycache__/
-.env
+worker: python3 main.py
